@@ -39,6 +39,8 @@ The following features are not supported, including all properties associated wi
 
 * POWER-based instances are not supported in the Washington DC region.
 
+* Direct Link (release 1.0) access to VPC is supported through [**Classic Access**](/docs/vpc-on-classic?topic=vpc-on-classic-setting-up-access-to-your-classic-infrastructure-from-vpc) only. Direct Link (release 2.0) does not have this limitation. 
+
 ## Virtual private cloud restrictions
 {: #virtual-private-cloud-restrictions}
 
